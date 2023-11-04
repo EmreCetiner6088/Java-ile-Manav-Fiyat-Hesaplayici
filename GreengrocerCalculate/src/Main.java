@@ -3,6 +3,5 @@ public class Main {
 
         Calculate calculate = new Calculate();
         calculate.calculateGreengrocer();
-
     }
 }
